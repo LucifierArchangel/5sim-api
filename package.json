@@ -1,0 +1,26 @@
+{
+  "name": "5sim-api",
+  "version": "0.0.1",
+  "description": "API wrapper for 5sim.net website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucifierArchangel/5sim-api.git"
+  },
+  "keywords": [
+    "5sim",
+    "5sim.net",
+    "sms",
+    "5sim-sms",
+    "5sim-api"
+  ],
+  "author": "LucifierArchangel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucifierArchangel/5sim-api/issues"
+  },
+  "homepage": "https://github.com/LucifierArchangel/5sim-api#readme"
+}
